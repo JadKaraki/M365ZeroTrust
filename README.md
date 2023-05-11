@@ -1,2 +1,2 @@
 # M365ZeroTrust
-Mindmaps for M365 Zero Trust
+Microsoft 365 Zero Trust diagrams and mindmaps.
